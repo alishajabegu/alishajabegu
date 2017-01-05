@@ -1,0 +1,37 @@
+header{
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+h2{
+    font-weight: bold;
+    font-size:smaller;
+    color:black;
+}
+nav{
+    background color: #ffdie4;
+}
+a{
+     float:left;
+}
+p{
+    font-family:"bold"
+    color:white;
+    font-size:160%;
+}
+input[type=submit]{
+    padding: 5px 15px;
+    cursor: pointer;
+}
+footer{
+    background-color: #4eb5f8;
+    padding:5px ;
+    float: none;
+    font-size:small;
+}
+body{
+    background-image:url("Multicolor-01-2.3.001-bigpicture_01_7.jpg")
+    background-size: cover;
+    color:white;
+    font-size:160%;
+}
